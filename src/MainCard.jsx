@@ -22,9 +22,6 @@ export default function MainCard() {
         <Skills skill = "Svelte" icon = {Emoji} background = "#f0db4f"/>
         </div>
         </div>
-        
-        
-
     </div>
   )
 }
